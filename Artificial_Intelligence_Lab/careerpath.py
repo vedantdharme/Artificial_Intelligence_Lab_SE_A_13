@@ -26,3 +26,6 @@ def main():
 if __name__ == "__main__":
     main()
 
+"""Welcome to the Career Path Expert System!
+Enter your interests separated by commas (e.g., Maths, Physics, Programming): Maths, Programming            
+Suggested Career Path: Computer Engineering"""
